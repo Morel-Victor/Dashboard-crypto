@@ -1,21 +1,18 @@
-# Template for Frontend project
+# Crypto dashboard project 🚀 ₿
 
-## Why this project
-This repo aims to provide a comfortable Developer Experience (DX) to newbie React developpers.
-It comes with a lo of tools with a asic config:
-- Create React App (CRA)
-- ESLint
-- Prettier
-- StyleLint
+## Description ✍🏻
 
-## First steps
+Dashboard to manage crypto assets 
 
-### Install these extensions for VSCode
+you have a coinmarketcap clone and
 
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [StyleLint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+stats for node and stacking
 
-### Install `husky`, which will check your code everytime you commit files
+## Getting started 📌 ##
 
-- `npm run prepare`
+1 - Fork the project
+
+2 - in your terminal install packages `npm install i`
+
+3 - run your local server `npm run start`
+
